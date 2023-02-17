@@ -2,7 +2,7 @@
  * MiracleCat Project
  * Copyright 2018 https://github.com/miracle134
  */
-package mc.helloboot;
+package mc.config;
 
 import org.springframework.boot.web.server.WebServer;
 import org.springframework.boot.web.servlet.server.ServletWebServerFactory;
